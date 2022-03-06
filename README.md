@@ -20,11 +20,6 @@
 
 - Routing: contains navigation logic for describing which screens are shown in which order.
 
-# Video
-
-https://user-images.githubusercontent.com/74264180/156886993-e028607b-7000-4445-9c38-05ef032d4786.mov
-
-
 # Screenshots
 ## Who are you
 ![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 15 03](https://user-images.githubusercontent.com/74264180/156936186-6c7bb711-2ae4-4d8d-a837-d769a038a05c.png)
