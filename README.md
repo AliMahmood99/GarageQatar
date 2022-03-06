@@ -3,8 +3,7 @@
 - The application have two Customers (User) and (Garage).
 - in (Garage) -> you can add your garage and its location and users can add reviews for your garage .
 - in (user) -> in home page all garages appear and you can click to any garage and show information realated for this garage and you can send message to this         garage and request a service and you can review this garage.
--  
-- 
+
 
 > Product feature:
 - Connected the API and displays a list of products.
@@ -14,11 +13,18 @@
 
 
 ## Which design pattern I used?
-> MVVM offers some advantages over MVC:
+> VIPER:
 
-- MVVM makes the view controller simpler by moving a lot of business logic out of it.
-- The view model better expresses the business logic for the view.
-- A view model is much easier to test than a view controller. You end up testing business logic without having to worry about view implementations.
+### VIPER is the industry's best and unbeatable when it comes to creating iOS architecture patterns with a model based on modular code-based theory. The roles of       five VIPER architecture components are as follows:
+- View: displays what it is told to by the Presenter and relays user input back to the Presenter.
+
+- Interactor: contains the business logic as specified by a use case.
+
+- Presenter: contains view logic for preparing content for display (as received from the Interactor) and for reacting to user inputs (by requesting new data from     the Interactor).
+
+- Entity: contains basic model objects used by the Interactor.
+
+- Routing: contains navigation logic for describing which screens are shown in which order.
 
 # Video
 
