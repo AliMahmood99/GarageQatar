@@ -33,7 +33,8 @@ https://user-images.githubusercontent.com/74264180/156886993-e028607b-7000-4445-
 
 # Screenshots
 ## Who are you
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 15 03](https://user-images.githubusercontent.com/74264180/156935826-25ddadc2-59fb-45fa-b022-24370805850d.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 15 03](https://user-images.githubusercontent.com/74264180/156936186-6c7bb711-2ae4-4d8d-a837-d769a038a05c.png)
+
 
 ## Home Page 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 06 01](https://user-images.githubusercontent.com/74264180/156935786-3ae2d3f5-928d-4dcb-87ce-49071ad458c3.png)
