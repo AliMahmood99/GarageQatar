@@ -2,7 +2,7 @@
 - A mobile application related to the automotive world in Qatar.
 - The application have two Customers (User) and (Garage).
 - in (Garage) -> you can add your garage and its location and users can add reviews for your garage .
-- in (user) -> in home page all garages appears and you can click to any garage and show information realated for this garage and you can send message to this         garage and make a request a service and you can review this garage.
+- in (user) -> in home page all garages appear and you can click to any garage and show information realated for this garage and you can send message to this         garage and request a service and you can review this garage.
 -  
 - 
 
