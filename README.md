@@ -37,10 +37,13 @@ https://user-images.githubusercontent.com/74264180/156886993-e028607b-7000-4445-
 
 
 ## Home Page 
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 06 01](https://user-images.githubusercontent.com/74264180/156935786-3ae2d3f5-928d-4dcb-87ce-49071ad458c3.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 06 01](https://user-images.githubusercontent.com/74264180/156936208-84c7b37f-6534-48f4-abbe-d7c4f0749b40.png)
 
-## Messages 
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 08 59](https://user-images.githubusercontent.com/74264180/156935835-9f3b98a9-16d7-444f-98d0-9daae4d717f1.png)
+## Messages
+![Simulator Screen Shot - iPhone 11 - 20![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 09 24](https://user-images.githubusercontent.com/74264180/156936227-2fe83d98-7688-441a-ae82-560e9a7fc216.png)
+22-03-06 at 19 08 59](https://user-images.githubusercontent.com/74264180/156936215-2b334b16-764a-4f4b-a4e2-a84e2cec3610.png)
+ 
+
 ## Search 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 09 14](https://user-images.githubusercontent.com/74264180/156935874-f2883439-2d7a-4524-95f2-f932004a621c.png)
 
