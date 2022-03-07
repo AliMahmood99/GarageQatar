@@ -29,24 +29,20 @@
 ![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 06 01](https://user-images.githubusercontent.com/74264180/156936208-84c7b37f-6534-48f4-abbe-d7c4f0749b40.png)
 
 ## Messages
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 08 59](https://user-images.githubusercontent.com/74264180/156936266-95d60e9a-02d8-428b-89a0-6cb92930e1d5.png)  ![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 09 24](https://user-images.githubusercontent.com/74264180/156936287-1be3b942-d8b5-447d-94db-9c632d1b211d.png)
-
- 
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 04 00](https://user-images.githubusercontent.com/74264180/157110012-23cffcf9-82be-421c-8760-8ffaf4e64721.png) ![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 04 06](https://user-images.githubusercontent.com/74264180/157110031-5193c827-46ec-48bf-b2e1-4b0203682748.png)
 
 ## Search 
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 09 14](https://user-images.githubusercontent.com/74264180/156936359-df2dfcfd-b374-47a8-b959-bed2029d27a0.png)
-
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 05 09](https://user-images.githubusercontent.com/74264180/157110096-ab686b6e-7ac3-4036-bf91-56acbb409d32.png)
 
 ## Make a request  
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 35 41](https://user-images.githubusercontent.com/74264180/156936362-fc1722a8-b4f8-47fb-9079-88293908bb6e.png)
-
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 09 28](https://user-images.githubusercontent.com/74264180/157110301-87ec775c-f741-42a9-82a4-8ebe2f21e2c7.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 09 36](https://user-images.githubusercontent.com/74264180/157110324-d4712632-a548-4200-86bc-98450317ae76.png)
 
 ## Setting 
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 12 46](https://user-images.githubusercontent.com/74264180/156936370-c45877cc-3dfd-4cd0-b866-252404047383.png)
-
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 05 50](https://user-images.githubusercontent.com/74264180/157110365-864202b2-28ba-47f0-9db4-4f55207ecb83.png)
 
 ## Profile 
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 12 41](https://user-images.githubusercontent.com/74264180/156936384-62d4db30-0afa-42c7-82d3-05c344f57226.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 05 48](https://user-images.githubusercontent.com/74264180/157110390-a6ff5ea5-21a9-4a3c-b56a-46232fce862c.png)
 
 
 
