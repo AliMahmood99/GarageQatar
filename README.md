@@ -1,13 +1,13 @@
 # GarageQatar
 
-> Product description:
+> **Product description**:
 - A mobile application related to the automotive world in Qatar.
 - The application have two Customers (User) and (Garage).
 - in (Garage) -> you can add your garage and its location and users can add reviews for your garage .
 - in (user) -> in home page all garages appear and you can click to any garage and show information realated for this garage and you can send message to this         garage and request a service and you can review this garage.
 
 ## Which design pattern I used?
-> VIPER:
+> **VIPER**:
 
 ### VIPER is the industry's best and unbeatable when it comes to creating iOS architecture patterns with a model based on modular code-based theory. The roles of       five VIPER architecture components are as follows:
 - View: displays what it is told to by the Presenter and relays user input back to the Presenter.
