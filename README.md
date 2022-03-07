@@ -9,7 +9,7 @@
 ## Which design pattern I used?
 > **VIPER**:
 
-### VIPER is the industry's best and unbeatable when it comes to creating iOS architecture patterns with a model based on modular code-based theory. The roles of five VIPER architecture components are as follows:
+### **VIPER** is the industry's best and unbeatable when it comes to creating iOS architecture patterns with a model based on modular code-based theory. The roles of five VIPER architecture components are as follows:
 - **View**: displays what it is told to by the Presenter and relays user input back to the Presenter.
 
 - **Interactor**: contains the business logic as specified by a use case.
