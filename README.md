@@ -25,7 +25,7 @@
 ![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 15 03](https://user-images.githubusercontent.com/74264180/156936186-6c7bb711-2ae4-4d8d-a837-d769a038a05c.png)
 
 ## Home Page 
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 00 34](https://user-images.githubusercontent.com/74264180/157110830-8f710212-dd27-4c57-babb-9f472950255e.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 00 34](https://user-images.githubusercontent.com/74264180/157110989-bb80765b-8ac3-49d8-a152-a1da86d8ae76.png)
 
 ## Messages
 ![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 04 00](https://user-images.githubusercontent.com/74264180/157110012-23cffcf9-82be-421c-8760-8ffaf4e64721.png) ![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 04 06](https://user-images.githubusercontent.com/74264180/157110031-5193c827-46ec-48bf-b2e1-4b0203682748.png)
