@@ -9,16 +9,16 @@
 ## Which design pattern I used?
 > **VIPER**:
 
-### VIPER is the industry's best and unbeatable when it comes to creating iOS architecture patterns with a model based on modular code-based theory. The roles of       five VIPER architecture components are as follows:
-- View: displays what it is told to by the Presenter and relays user input back to the Presenter.
+### VIPER is the industry's best and unbeatable when it comes to creating iOS architecture patterns with a model based on modular code-based theory. The roles of five VIPER architecture components are as follows:
+- **View**: displays what it is told to by the Presenter and relays user input back to the Presenter.
 
-- Interactor: contains the business logic as specified by a use case.
+- **Interactor**: contains the business logic as specified by a use case.
 
-- Presenter: contains view logic for preparing content for display (as received from the Interactor) and for reacting to user inputs (by requesting new data from     the Interactor).
+- **Presenter**: contains view logic for preparing content for display (as received from the Interactor) and for reacting to user inputs (by requesting new data from the Interactor).
 
-- Entity: contains basic model objects used by the Interactor.
+- **Entity**: contains basic model objects used by the Interactor.
 
-- Routing: contains navigation logic for describing which screens are shown in which order.
+- **Routing**: contains navigation logic for describing which screens are shown in which order.
 
 # Screenshots
 ## Who are you
